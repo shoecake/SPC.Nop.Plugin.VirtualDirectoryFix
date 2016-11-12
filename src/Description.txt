@@ -1,0 +1,8 @@
+﻿Group: SPC Plugins
+FriendlyName: SPC Fix for bundling CSS in a Virtual Directory
+SystemName: SPC.VirtualDirectoryFix
+Version: 1.0
+SupportedVersions: 3.80
+Author: nopCommerce
+DisplayOrder: 1
+FileName: SPC.Nop.Plugin.VirtualDirectoryFix.dll
